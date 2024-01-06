@@ -1,8 +1,0 @@
-Development environments & Editors: 
-	- Emacs
-	- Git Gui
-	- GitHub Desktop
-	- IntelliJ
-	- TortoiseGit
-	- Visual Studio Code (VS Code)
-Trên là những giao diện mình có thể tương tác với gitlab hay github thay vì dùng command
