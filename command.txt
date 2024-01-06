@@ -10,4 +10,6 @@
 
 - git commit -a -m "message" : -a là tự động thực hiện git add <tên tệp hoặc thư mục>
 
+- ssh-keygen -t rsa -b 4096 : lệnh tạo cặp khóa ssh (secure shell) private và public bắng thuật toán RSA
+
 - 
