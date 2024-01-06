@@ -1,0 +1,13 @@
+- git config --global core.editor "/usr/bin/vi" : lệnh cấu hình trình soạn thảo mặc định cho git
+
+- git config --global user.name "trangdevops" : lệnh thiết lập tên người dùng. Khi tạo các commit trong Git, tên người dùng sẽ được gắn kèm với commit để xác định người thực hiện thay đổi.
+
+- git config --global user.email "trangdevops@gmail.com" : tương tự như lệnh user
+
+- git add <tên tệp hoặc thư mục> : lệnh thêm các thay đổi vào vùng staging
+
+- git commit -m "message" : tạo 1 commit mới, lưu trữ các thay đổi đã được thêm vào vùng staging vào lịch sử kho lưu trữ.
+
+- git commit -a -m "message" : -a là tự động thực hiện git add <tên tệp hoặc thư mục>
+
+- 
