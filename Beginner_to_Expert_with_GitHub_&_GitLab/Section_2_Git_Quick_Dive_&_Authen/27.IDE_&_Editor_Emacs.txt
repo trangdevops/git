@@ -1,0 +1,4 @@
+27.IDE_&_Editor_Emacs
+
+- link: https://www.gnu.org/software/emacs/
+- link download window: https://mirror.downloadvn.com/gnu/emacs/windows/

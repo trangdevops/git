@@ -1,0 +1,6 @@
+28.IDE_&_Editor_Git_Gui
+
+- Cách 1: Từ Git Bash dùng lệnh: git gui
+- Cách 2: Sau khi cài Git về local thì sẽ có 3 app: Git Bash, Git Gui, Git CMD
+
+link download git for window: https://git-scm.com/download/win

@@ -1,0 +1,12 @@
+If you use Windows Credential Manager with multiple accounts on a Git-Server (Might not be really secure btw):
+https://git-scm.com/docs/gitcredentials
+
+For more SSH Info:
+https://www.ssh.com/ssh/agent
+
+If you want to use same SSH key accross multiple machines:
+https://serverfault.com/questions/170682/using-same-ssh-private-key-across-multiple-machines
+
+Setting up multiple GitHub Accounts:
+https://dev.to/arnellebalane/setting-up-multiple-github-accounts-the-nicer-way-1m5m
+
