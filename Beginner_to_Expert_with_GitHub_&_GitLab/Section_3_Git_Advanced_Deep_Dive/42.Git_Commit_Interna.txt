@@ -1,0 +1,10 @@
+### Giới thiệu ###
+- Interna là gì ? hay được gọi là "bên trong" đề cập đến các khía cạnh nội bộ, cấu trúc và cơ chế hoạt động của hệt hống Git
+
+### Command ###
+
+```
+git gc
+```
+- git gc : viết tắt của "garbage collection" và được sử dụng để thực hiện quá trình thu gom và nén các đối tượng không sử dụng trong git.
+
