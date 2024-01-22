@@ -3,7 +3,7 @@
 
 ### Command ###
 
-```
+```sh
 git gc
 ```
 - git gc : viết tắt của "garbage collection" và được sử dụng để thực hiện quá trình thu gom và nén các đối tượng không sử dụng trong git.
